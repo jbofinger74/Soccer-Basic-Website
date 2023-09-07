@@ -1,0 +1,29 @@
+.list {
+    font-size: 20px;
+    width: 350px;
+}
+body {
+    font-family: Noteworthy;
+    background-color:darkolivegreen;
+}
+p {
+    background-color:wheat;
+    padding: 5px 15px 5px 15px;
+    color: black;
+}
+h2, h1 {
+   color:wheat;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    margin-top: 45px;
+}
+.footer {
+    margin-bottom: 50px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
